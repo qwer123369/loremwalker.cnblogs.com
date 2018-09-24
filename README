@@ -1,5 +1,5 @@
 
-放弃使用链表描述问题过程的方式编写代码，采用ZCL.SPACE的The Josephus Problem具体数学分析推导实现实现该功能
+从环形自杀游戏中获取最后一位幸存者编号，放弃使用链表描述问题过程而采用推导公式编写代码
 
 https://zlearning.netlify.com/math/concretemath/josephus
 
